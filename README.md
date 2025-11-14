@@ -5,6 +5,16 @@ Welcome! This repository contains my personal notes, summaries, and resources co
 
 <br>
 
+## ✅ Prerequisites
+
+To effectively use these notes and run the lab configurations, you will need:
+
+* **Cisco Packet Tracer:** Used to create and test all lab topologies (`.pkt` files).
+* **Obsidian:** (Optional) If you want to use the notes with the internal links and graph view, you will need the Obsidian application.
+* **Basic Understanding of Networking:** This material assumes prior exposure to fundamental networking concepts (e.g., binaries, IP addresses, basic command-line interface familiarity).
+
+<br>
+
 ## 🧭 Table of Contents
 
 * [🎯 Goal](#-goal)
