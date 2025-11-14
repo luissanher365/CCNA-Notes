@@ -38,7 +38,7 @@ This material is primarily based on:
  >Cisco documentation.
 
 
-🤝 CONTECT
+🤝 CONECT
 
 If you have any questions or want to connect with other students:
 
