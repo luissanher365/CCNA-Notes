@@ -13,7 +13,7 @@ The purpose of this repository is to:
 
 <br>
 <br>
-<br>
+
 ## 🗺️ **REPOSITORY STRUCTURE**
 
 The notes are organized following the official 200-301 exam topic domains:
