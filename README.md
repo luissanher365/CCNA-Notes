@@ -21,8 +21,8 @@ To effectively use these notes and run the lab configurations, you will need:
 * [🗺️ Repository Structure](#️-repository-structure)
 * [🛠️ How to Use These Notes](#️-how-to-use-these-notes)
 * [📝 Key References](#️-key-references)
-* [🟢 Project Status](#-project-status)
-* [🤝 Contact](#-contact)
+* [🟢 Project Status](#️-project-status)
+* [🤝 Contact](#️-contact)
 * [⚖️ License](#️-license)
 
 <br>
