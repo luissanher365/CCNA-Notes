@@ -1,7 +1,7 @@
 # 📚 CCNA 200-301 Study Notes & Resources
 
 <p align="center">
-  <img src="C:\Users\VersusPC\Downloads" width="200" />
+  <img src="Images/banner-01-scaled.jpg" width="200" />
 </p>
 
 
