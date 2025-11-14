@@ -42,7 +42,7 @@ This material is primarily based on:
 
 If you have any questions or want to connect with other students:
 
-  >Your GitHub Name: luissanher-g
+  >GitHub Name: luissanher-g
 
   >LinkedIn: ...
 
