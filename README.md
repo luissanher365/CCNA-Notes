@@ -24,9 +24,9 @@ The notes are organized following the official 200-301 exam topic domains:
 
 ## **🛠️ HOW TO USE**
 
-1. Explore: Navigate through the folders and .md (Markdown) files to find the specific topic you need to review.
-2. Contribute (Optional): If you find an error or have a clearer way to explain a concept, feel free to open a Pull Request!
-3. Labs: Check the Labs/ section for configuration examples of key Cisco IOS commands (often referencing Packet Tracer files).
+1. 🔍 **Explore**: Navigate through the folders and .md (Markdown) files to find the specific topic you need to review.
+2. ✍️ **Contribute** (Optional): If you find an error or have a clearer way to explain a concept, feel free to open a Pull Request!
+3. 🧪 **Labs**: Check the Labs/ section for configuration examples of key Cisco IOS commands (often referencing Packet Tracer files).
 
 <br>
 
