@@ -50,7 +50,7 @@ If you have any questions or want to connect with other students:
 
   * **GitHub Name:** [@luissanher-g](https://github.com/luissanher-g)
 
-  >LinkedIn: ...
+  * **LinkedIn:** [tu_perfil_aqui](https://www.linkedin.com/in/tu_perfil_aqui)
 
 Good luck with your CCNA exam! Keep studying hard! 🚀
 
