@@ -51,7 +51,7 @@ The notes are organized following the official 200-301 exam topic domains:
 
 <br>
 
-## 🛠️ ** HOW TO USE**
+## 🛠️ **HOW TO USE**
 
 1. 🔍 **Explore**: Navigate through the folders and .md (Markdown) files to find the specific topic you need to review.
 2. ✍️ **Contribute** (Optional): If you find an error or have a clearer way to explain a concept, feel free to open a Pull Request!
