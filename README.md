@@ -78,7 +78,7 @@ This material is primarily based on:
 
 If you have any questions or want to connect with other students:
 
-  * **GitHub:** [@luissanher-g](https://github.com/luissanher-g)
+  * **GitHub:** [@luissanher365](https://github.com/luissanher365)
 
   * **LinkedIn:** [@shluis](https://www.linkedin.com/in/shluis)
 
